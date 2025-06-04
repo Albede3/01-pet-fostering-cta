@@ -139,3 +139,13 @@ body {
     margin-bottom: 16px;
   }
 }
+
+/* Footer styles */
+.site-footer {
+  background-color: #2bb3c0; /* teal */
+  color: #fff;
+  text-align: center;
+  padding: 16px 0;
+  margin-top: 32px;
+  font-size: 1rem;
+}
